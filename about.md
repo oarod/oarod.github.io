@@ -5,4 +5,4 @@ permalink: /about/
 tags: about
 ---
 
-Polyglot technophile versed in many frameworks, stacks, and languages.
+Polyglot versed in many frameworks, stacks, and languages.
