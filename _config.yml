@@ -4,7 +4,7 @@ email:       oscar.arod85@gmail.com
 author:      Oscar A Rodriguez
 description: "Full Stack Developer"
 baseurl:     ""
-url:         "http://www.oarod.com"
+url:         "https://www.oarod.com"
 date_format: "%b %-d, %Y"
 
 # Google services
