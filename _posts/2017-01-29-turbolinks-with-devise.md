@@ -5,9 +5,11 @@ date: 2017-01-29 03:20
 categories:
 ---
 
-If you've ever tried to have your Devise forms submit via AJAX, then you may have found that the resources to accomplish this are kind of spread out all over the internet. Consider this my humble effort to bring all those bits and pieces of information together in a way that I wish was available when I took on this task. Without further ado, here are the steps I took to use Devise with Turbolinks. 
+If you've ever tried to have your Devise forms submit via AJAX, then you may have found that the resources to accomplish this are kind of spread out all over the internet. 
 
-This assumes you have a fairly standard configuration of Devise already.
+Consider this my humble effort to bring all those bits and pieces of information together in a way that I wish was available when I took on this task. Without further ado, here are the steps I took to use Devise with Turbolinks. 
+
+_Note: This assumes you already have a fairly default configuration of Devise._
 
 First, we have to configure Devise to allow us to use [jquery-ujs](https://robots.thoughtbot.com/a-tour-of-rails-jquery-ujs) and [SJR](https://signalvnoise.com/posts/3697-server-generated-javascript-responses) responses.
 
