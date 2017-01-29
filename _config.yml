@@ -2,7 +2,7 @@
 title:       Oscar A Rodriguez
 email:       oscar.arod85@gmail.com
 author:      Oscar A Rodriguez
-description: "Full Stack Developer"
+description: "Full stack developer versed in many frameworks, stacks, and languages."
 baseurl:     ""
 url:         "https://www.oarod.com"
 date_format: "%b %-d, %Y"
@@ -20,7 +20,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -44,7 +44,7 @@ facebook_comments_number: 10
 # Social icons
 github_username: oarod
 bitbucket_username:
-stackoverflow_id: 1054698
+stackoverflow_id:
 twitter_username:
 skype_username:
 steam_nickname:
@@ -99,7 +99,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting me. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
