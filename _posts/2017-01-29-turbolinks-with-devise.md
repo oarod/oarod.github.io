@@ -77,7 +77,7 @@ $('[data-behavior="flashes"]').html('<%= j render "layouts/flashes", flash: flas
 {% endhighlight %}
 
 {% highlight javascript %}
-// app/views/devise/registrations/create.js.erb
+// app/views/devise/sessions/create.js.erb
 
 Turbolinks.clearCache()
 Turbolinks.visit("<%= response.location %>", { "action": "replace" })
